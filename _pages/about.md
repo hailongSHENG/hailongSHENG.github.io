@@ -23,9 +23,9 @@ Education Background
 ======
 | Degree | University | Supervisor | Time |
 | :----------- | :----------- | :----------- | :----------- |
-Bachelor | [China University of Mining & Technology, Beijing](https://www.cumtb.edu.cn/) | [Na Zhang](https://ljxy.cumtb.edu.cn/info/1091/1974.htm) | 2013.09 - 2017.06 |
-Master | [China University of Mining & Technology, Beijing](https://www.cumtb.edu.cn/) | [Bo Liu](https://www.cumtb.edu.cn/info/1012/10587.htm) | 2017.09 - 2020.06|
-PhD | [China University of Mining & Technology, Beijing](https://www.cumtb.edu.cn/) | [Bo Liu](https://www.cumtb.edu.cn/info/1012/10587.htm) | 2024.09 - |
+| Bachelor | [China University of Mining & Technology, Beijing](https://www.cumtb.edu.cn/) | [Na Zhang](https://ljxy.cumtb.edu.cn/info/1091/1974.htm) | 2013.09 - 2017.06 |
+| Master | [China University of Mining & Technology, Beijing](https://www.cumtb.edu.cn/) | [Bo Liu](https://www.cumtb.edu.cn/info/1012/10587.htm) | 2017.09 - 2020.06|
+| PhD | [China University of Mining & Technology, Beijing](https://www.cumtb.edu.cn/) | [Wolfram Rühaak](https://www.wolfram-ruehaak.net/) | 2024.09 - |
 
 
 
