@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am Hailong Sheng, a PhD student engaged in geotechnical engineering research. Currently, I am conducting research on the effects of freeze-thaw cycles on rock integrity at the [Technical University of Darmstadt](https://www.tu-darmstadt.de/).
 
 
